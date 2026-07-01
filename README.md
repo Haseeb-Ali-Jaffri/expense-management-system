@@ -1,5 +1,6 @@
 # 💰 Expense Management System
 
+![Banner](Screenshots/banner.png)
 A full-stack Expense Management System built using **Python**, **FastAPI**, **Streamlit**, and **MySQL**. This application allows users to manage daily expenses, analyze spending by category, and visualize monthly expense trends through an interactive dashboard.
 
 ---

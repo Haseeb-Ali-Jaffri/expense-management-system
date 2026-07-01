@@ -289,14 +289,6 @@ MySQL Database
 
 ![Monthly Analytics](Screenshots/Monthly_Analytics.png)
 
-## Analytics
-
-![Analytics](Screenshots/Analytics_By_Category.png)
-
-## Monthly Analytics
-
-![Monthly](Screenshots/Monthly_Analytics.png)
-
 ---
 
 # 📚 Learning Objectives

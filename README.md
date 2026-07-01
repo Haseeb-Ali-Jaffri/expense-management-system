@@ -275,28 +275,19 @@ Database Helper
 MySQL Database
 ```
 
----
-
 # 📸 Screenshots
 
-You can add screenshots here after uploading images to GitHub.
+### 📝 Add / Update Expenses
 
-Example:
+![Add / Update](Screenshots/Add_Update.png)
 
-```
-screenshots/
+### 📊 Analytics by Category
 
-├── home.png
-├── analytics.png
-└── monthly.png
-```
+![Analytics by Category](Screenshots/Analytics_By_Category.png)
 
-Then use
+### 📅 Monthly Analytics
 
-```markdown
-## Home
-
-![Home](Screenshots/Add_Update.png)
+![Monthly Analytics](Screenshots/Monthly_Analytics.png)
 
 ## Analytics
 
@@ -305,7 +296,6 @@ Then use
 ## Monthly Analytics
 
 ![Monthly](Screenshots/Monthly_Analytics.png)
-```
 
 ---
 
